@@ -3,7 +3,7 @@
 //  TestThree
 //
 //  Created by LIAN on 15/12/23.
-//  Copyright (c) 2015年 com.leying365. All rights reserved.
+//  Copyright (c) 2015年 com.Lian365. All rights reserved.
 //
 
 #import "BookPageCollectionViewCell.h"
